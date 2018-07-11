@@ -1,11 +1,37 @@
 {
-    "users": [
-        {"id": "2", "firstName": "Aviral", "age": 25, "companyId": "2"},
-        {"id": "21", "firstName": "Mak", "age": 27, "companyId": "2"},
-        {"id": "11", "firstName": "Larry", "age": 18, "companyId": "1"}
-    ],
-    "companies": [
-        {"id": "1", "name": "TCS", "description": "service"},
-        {"id": "2", "name": "EY", "description": "product"}
-    ]
+  "users": [
+    {
+      "id": "21",
+      "firstName": "Nick",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Siya",
+      "age": 20,
+      "id": "fi1WMWC"
+    },
+    {
+      "firstName": "Siya",
+      "age": 20,
+      "id": "oFHdjm8"
+    },
+    {
+      "firstName": "Siya",
+      "age": 20,
+      "id": "6Nd7O3m"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "TCS",
+      "description": "service"
+    },
+    {
+      "id": "2",
+      "name": "EY",
+      "description": "product"
+    }
+  ]
 }
